@@ -1,0 +1,10 @@
+tensorflow
+matplotlib
+numpy
+pandas
+streamlit
+scikit-learn
+scikeras
+tensorboard
+livelossplot
+scikeras
